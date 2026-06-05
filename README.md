@@ -110,7 +110,7 @@ Some of the important measures used:
 
 If you’d like to connect or view more projects:
 
-**LinkedIn:** https://www.linkedin.com/in/YOUR-LINK  
+**GitHub:** https://app.notion.com/p/Dharini-Kumaresan-3749dfa19c9480cb85dac13f8f527f6a?source=copy_link 
 **GitHub:** https://github.com/DhariniKumaresan
 
 ---
