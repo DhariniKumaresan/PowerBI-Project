@@ -3,25 +3,119 @@ Download the PBIX file:
 https://1drv.ms/u/c/33a2a3f949db4d9a/IQAEtXLEoeGZSKw1CRw4jLmNATQpQasHlvdHkSLO4Mao-KM?e=rmce0h
 
 
-# 📊 Sales Performance Dashboard
 
-A comprehensive Power BI dashboard analysing sales performance across products, regions, and customer segments. This project demonstrates end‑to‑end data analysis using Excel, SQL, and Power BI.
+# 📊 Power BI Sales Performance Dashboard
+
+This Power BI project analyzes sales performance across products, regions, and customer segments.  
+The dashboard provides clear insights into revenue trends, top‑performing categories, and key business drivers to support data‑driven decision‑making.
 
 ---
 
 ## 🚀 Project Overview
-This dashboard helps stakeholders understand:
+This dashboard was built to help stakeholders understand:
 
 - Overall sales performance  
-- Top‑performing products  
-- Regional trends  
-- Customer purchasing patterns  
-- Monthly and yearly sales insights  
+- Monthly revenue trends  
+- Top‑selling products  
+- Regional performance  
+- Customer purchase patterns  
 
-It is designed for business decision‑makers who want quick, actionable insights.
+The goal is to provide a **single source of truth** for business leaders to monitor KPIs and identify growth opportunities.
 
 ---
 
-## 📁 Folder Structure
+## ❓ Business Questions Answered
+
+- What is the total revenue generated over time?  
+- Which products contribute the most to sales?  
+- Which regions perform best or need improvement?  
+- How do monthly sales trends compare?  
+- Which customer segments drive the highest revenue?
+
+---
+
+## 🗂️ Dataset Information
+
+The dataset includes:
+
+- Sales transactions  
+- Order details  
+- Product information  
+- Customer details  
+
+📁 **Download Datasets (ZIP files):**  
+- Sales Data  
+- Orders Data  
+- Customer Data  
+
+*(All dataset files are included in this repository as ZIP files.)*
+
+---
+
+## 📈 Power BI Dashboard
+
+You can view or download the interactive PBIX file here:
+
+👉 **Power BI File:** *[Click to open PBIX](YOUR_ONEDRIVE_LINK_HERE)*  
+*(Replace this text with your actual OneDrive link.)*
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Power BI Desktop**  
+- **Power Query** for data cleaning  
+- **DAX** for calculated measures  
+- **Excel / CSV** datasets  
+- **Data modeling** (relationships, star schema)
+
+---
+
+## 🧮 Key DAX Measures
+
+Some of the important measures used:
+
+- Total Sales  
+- Total Quantity  
+- Monthly Sales Trend  
+- Top Products by Revenue  
+- Year‑to‑Date Sales  
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+### 📌 Overview Page
+![Overview](Screenshot1.png)
+
+### 📌 Sales Analysis
+![Sales Analysis](Screenshot2.png)
+
+### 📌 Product Performance
+![Product Performance](Screenshot3.png)
+
+---
+
+## 🧠 Insights Summary
+
+- **Product Category A** generated the highest revenue.  
+- **Region X** consistently outperformed other regions.  
+- Sales peaked during **Month Y**, showing strong seasonal trends.  
+- Customer Segment Z contributed the most to total revenue.  
+- Opportunities exist to improve performance in low‑performing regions.
+
+---
+
+## 📬 Contact
+
+If you’d like to connect or view more projects:
+
+**LinkedIn:** https://www.linkedin.com/in/YOUR-LINK  
+**GitHub:** https://github.com/DhariniKumaresan
+
+---
+
+
+
 
 
