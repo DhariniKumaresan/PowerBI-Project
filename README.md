@@ -85,7 +85,7 @@ Some of the important measures used:
 ## 🖼️ Dashboard Screenshots
 
 ### 📌 Overview Page
-![Overview](Screenshot1.png)
+![Overview]Screenshot1.png
 
 ### 📌 Sales Analysis
 ![Sales Analysis](Screenshot2.png)
