@@ -56,8 +56,7 @@ The dataset includes:
 
 You can view or download the interactive PBIX file here:
 
-👉 **Power BI File:** *[Click to open PBIX](YOUR_ONEDRIVE_LINK_HERE)*  
-*(Replace this text with your actual OneDrive link.)*
+👉 **Power BI File:** *[Click to open PBIX] https://1drv.ms/u/c/33a2a3f949db4d9a/IQAEtXLEoeGZSKw1CRw4jLmNATQpQasHlvdHkSLO4Mao-KM?e=sZ3lp4*  
 
 ---
 
@@ -93,6 +92,8 @@ Some of the important measures used:
 
 ### 📌 Product Performance
 ![Product Performance](Screenshot3.png)
+
+
 
 ---
 
