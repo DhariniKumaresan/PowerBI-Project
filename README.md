@@ -88,7 +88,7 @@ Some of the important measures used:
 ![Overview]Screenshot1.png
 
 ### 📌 Sales Analysis
-![Sales Analysis](Screenshot2.png)
+![Sales Analysis]Screenshot2.png
 
 ### 📌 Product Performance
 ![Product Performance](Screenshot3.png)
